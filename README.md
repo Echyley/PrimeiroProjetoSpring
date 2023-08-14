@@ -1,5 +1,6 @@
-Etapas Projeto API com Spring
+# Etapas Projeto API com Spring
 1 - Criar Projeto
+
 * Pelo IDE ou pelo site: https://start.spring.io
 * Configurar projeto (Dependencias, linguagem, versão Spring, etc)
 
@@ -16,6 +17,7 @@ Etapas Projeto API com Spring
   - End point save (Salvar usuário alterado, ou adicionado)
 * Testar no Postman
 
-
 OQ APRENDI
 Criar estrutura básica Spring com Spring boot para fazer uma API CRUD. Agr é só praticar mais...
+
+**Código base: https://github.com/devsuperior/java-web-spring-2022**
